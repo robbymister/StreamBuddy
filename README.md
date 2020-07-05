@@ -1,2 +1,2 @@
-# StreamBuddy
-StreamBuddy is a web app that allows synchronous viewing of YouTube videos.
+# Streamie
+Streamie Web App, synchronizes multiple YouTube videos between browsers. Main portion I contributed on were the chatroom, the YouTube players sync and the basic CSS
